@@ -1,10 +1,11 @@
 ### Hi there 👋
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arima0714&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=arima0714&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arima0714&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arima0714&hide=C,html,C%2B%2B,Roff,Makefile)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=arima0714&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **arima0714/arima0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
